@@ -1,0 +1,7 @@
+target,method,MAE,accuracy_%
+Crowd,model,3580.33,94.88
+Crowd,persistence,7276.14,89.71
+Crowd,last_week,5264.2,92.49
+Tonsures,model,2428.29,91.24
+Tonsures,persistence,3852.23,86.29
+Tonsures,last_week,3954.96,85.58
